@@ -13,7 +13,7 @@ A modern Neon Fusion UI frontend project showcasing a counter and show/hide pass
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 
 ## 📂 Project Files
@@ -31,4 +31,4 @@ A modern Neon Fusion UI frontend project showcasing a counter and show/hide pass
 
 ## 👩‍💻 Author
 
-Archana
+Archana kumari
